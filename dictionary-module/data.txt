@@ -1,0 +1,755 @@
+en:hi = Hello 👋 How can I help you today?
+hi:hi = नमस्ते 👋 मैं आपकी कैसे मदद कर सकता हूँ?
+
+en:hello = Hi there 👋 What would you like to know?
+hi:hello = नमस्ते 👋 आप क्या जानना चाहते हैं?
+
+en:hii = Hello 😊 How can I assist you?
+hi:hii = हैलो 😊 मैं आपकी मदद कैसे कर सकता हूँ?
+
+en:hey = Hey 👋 Ask me anything from my knowledge base.
+hi:hey = हे 👋 मुझसे किसी भी जानकारी के लिए पूछें।
+
+en:good morning = Good morning ☀️ How can I help you today?
+hi:good morning = सुप्रभात ☀️ मैं आज आपकी कैसे मदद कर सकता हूँ?
+
+en:good afternoon = Good afternoon 😊 What would you like to know?
+hi:good afternoon = शुभ अपराह्न 😊 आप क्या जानना चाहते हैं?
+
+en:good evening = Good evening 🌙 How can I assist you?
+hi:good evening = शुभ संध्या 🌙 मैं आपकी मदद कैसे कर सकता हूँ?
+
+en:good night = Good night 🌙 Have a restful sleep.
+hi:good night = शुभ रात्रि 🌙 अच्छी नींद लें।
+
+en:what is python = Python is a high-level programming language used for web development, AI, and automation.
+hi:python kya hai = Python एक उच्च स्तरीय प्रोग्रामिंग भाषा है जो वेब डेवलपमेंट, AI और ऑटोमेशन के लिए इस्तेमाल होती है।
+
+en:what is flask = Flask is a lightweight Python web framework used to build web applications.
+hi:flask kya hai = Flask एक हल्का Python वेब फ्रेमवर्क है जो वेब एप्लिकेशन बनाने के लिए इस्तेमाल होता है।
+
+en:what is django = Django is a high-level Python web framework with built-in features like admin panel and ORM.
+hi:django kya hai = Django एक उच्च स्तरीय Python वेब फ्रेमवर्क है जिसमें admin panel और ORM जैसे features built-in हैं।
+
+en:what is html = HTML is the standard markup language used to create web pages.
+hi:html kya hai = HTML वेब पेज बनाने के लिए इस्तेमाल होने वाली स्टैंडर्ड मार्कअप भाषा है।
+
+en:what is css = CSS is used to style and design web pages.
+hi:css kya hai = CSS का उपयोग वेब पेज को स्टाइल और डिजाइन करने के लिए किया जाता है।
+
+en:what is javascript = JavaScript is a programming language used to make web pages interactive.
+hi:javascript kya hai = JavaScript एक प्रोग्रामिंग भाषा है जो वेब पेज को इंटरैक्टिव बनाती है।
+
+en:what is sql = SQL stands for Structured Query Language, used to manage relational databases.
+hi:sql kya hai = SQL का मतलब Structured Query Language है, जो रिलेशनल डेटाबेस को मैनेज करने के लिए इस्तेमाल होती है।
+
+en:what is database = A database is an organized collection of data for easy access and management.
+hi:database kya hai = Database एक व्यवस्थित डेटा संग्रह है जिसे आसानी से एक्सेस और मैनेज किया जा सकता है।
+
+en:what is machine learning = Machine learning allows computers to learn from data and make predictions.
+hi:machine learning kya hai = मशीन लर्निंग कंप्यूटर को डेटा से सीखने और भविष्यवाणी करने की क्षमता देती है।
+
+en:what is artificial intelligence = AI simulates human intelligence in machines to perform tasks like decision making.
+hi:artificial intelligence kya hai = AI मशीनों में मानव बुद्धि का अनुकरण करती है और निर्णय लेने जैसे कार्य करती है।
+
+en:what is cloud computing = Cloud computing provides on-demand computing resources over the internet.
+hi:cloud computing kya hai = क्लाउड कंप्यूटिंग इंटरनेट के माध्यम से ऑन-डिमांड कंप्यूटिंग संसाधन प्रदान करती है।
+
+en:what is aws = AWS (Amazon Web Services) is a cloud platform for hosting, storage, and computing.
+hi:aws kya hai = AWS (अमेज़न वेब सर्विसेज़) एक क्लाउड प्लेटफ़ॉर्म है जो होस्टिंग, स्टोरेज और कंप्यूटिंग प्रदान करता है।
+
+en:who was mahatma gandhi = Mahatma Gandhi was the leader of Indian independence movement known for non-violence.
+hi:mahatma gandhi kaun the = महात्मा गांधी भारत की स्वतंत्रता संग्राम के नेता थे, जो अहिंसा के लिए प्रसिद्ध थे।
+
+en:when did india get independence = India got independence on 15 August 1947 from British rule.
+hi:india ko swatantrata kab mili = भारत को 15 अगस्त 1947 को ब्रिटिश शासन से स्वतंत्रता मिली।
+
+en:what is grammar = Grammar is the set of rules for forming sentences in a language.
+hi:grammar kya hai = व्याकरण भाषा में वाक्य बनाने के नियमों का समूह है।
+
+en:what are parts of speech = Parts of speech are categories of words like noun, verb, adjective, adverb, etc.
+hi:parts of speech kya hai = शब्दों को वर्गीकृत करने के लिए शब्दों के प्रकार जैसे संज्ञा, क्रिया, विशेषण, क्रिया विशेषण आदि।
+
+en:what is noun = A noun is a word that names a person, place, thing, or idea.
+hi:noun kya hai = संज्ञा एक शब्द है जो किसी व्यक्ति, स्थान, वस्तु या विचार का नाम बताता है।
+
+en:what is verb = A verb is a word that shows action or state of being.
+hi:verb kya hai = क्रिया एक शब्द है जो क्रिया या स्थिति को दर्शाता है।
+
+en:what is adjective = An adjective describes a noun or pronoun.
+hi:adjective kya hai = विशेषण एक शब्द है जो संज्ञा या सर्वनाम का वर्णन करता है।
+
+en:what is adverb = An adverb describes a verb, adjective, or another adverb.
+hi:adverb kya hai = क्रिया विशेषण एक शब्द है जो क्रिया, विशेषण या अन्य क्रिया विशेषण का वर्णन करता है।
+
+en:what is preposition = A preposition shows the relationship between a noun and another word.
+hi:preposition kya hai = पूर्वसर्ग एक शब्द है जो संज्ञा और अन्य शब्द के बीच संबंध दिखाता है।
+
+en:what is conjunction = A conjunction joins words, phrases, or clauses.
+hi:conjunction kya hai = संयोजक शब्द, वाक्यांश या उपवाक्य को जोड़ता है।
+
+en:what is interjection = An interjection expresses sudden emotion.
+hi:interjection kya hai = विस्मयादिबोधक शब्द अचानक भाव व्यक्त करता है।
+
+en:what is active voice = In active voice, the subject performs the action.
+hi:active voice kya hai = सक्रीय वाच्य में, कर्ता क्रिया को करता है।
+
+en:what is passive voice = In passive voice, the subject receives the action.
+hi:passive voice kya hai = प्रत्यायी वाच्य में, कर्ता क्रिया को प्राप्त करता है।
+
+en:example of active voice = Ram wrote a letter.
+hi:active voice ka udaharan = राम ने एक पत्र लिखा।
+
+en:example of passive voice = A letter was written by Ram.
+hi:passive voice ka udaharan = एक पत्र राम द्वारा लिखा गया।
+en:water is essential = Water is essential for life. Drink at least 8 glasses daily.
+hi:pani kyun zaruri hai = जीवन के लिए पानी आवश्यक है। रोज कम से कम 8 गिलास पिएं।
+
+en:exercise benefits = Regular exercise improves health, mood, and energy levels.
+hi:vyaayam ke fayde = नियमित व्यायाम से स्वास्थ्य, मनोबल और ऊर्जा स्तर बेहतर होते हैं।
+
+en:healthy diet = A healthy diet includes fruits, vegetables, grains, and proteins.
+hi:swasth aahar = एक स्वस्थ आहार में फल, सब्जियां, अनाज और प्रोटीन शामिल होते हैं।
+
+en:sleep importance = Sleep is important for memory, focus, and overall well-being.
+hi:neend ka mahatva = नींद स्मरण शक्ति, ध्यान और सम्पूर्ण स्वास्थ्य के लिए महत्वपूर्ण है।
+
+en:recycle waste = Recycling waste helps reduce pollution and conserve resources.
+hi:kachra recycle karna = कचरा रीसायकल करने से प्रदूषण कम होता है और संसाधन बचते हैं।
+
+en:solar energy = Solar energy is renewable energy from the sun.
+hi:solar energy kya hai = सौर ऊर्जा सूर्य से प्राप्त नवीनीकरणीय ऊर्जा है।
+
+en:global warming = Global warming is the increase in Earth's temperature due to greenhouse gases.
+hi:vishv tapmaan vridhi = ग्रीनहाउस गैसों के कारण पृथ्वी का तापमान बढ़ना ग्लोबल वार्मिंग कहलाता है।
+
+en:rainforest = Rainforests are dense forests with high rainfall and biodiversity.
+hi:barish ka jungle = वर्षा वनों में वर्षा अधिक होती है और जैव विविधता बहुत है।
+
+en:coral reefs = Coral reefs are underwater ecosystems made of coral and marine life.
+hi:coral reef kya hai = कोरल रीफ पानी के नीचे का पारिस्थितिकी तंत्र है जिसमें कोरल और समुद्री जीवन होता है।
+
+en:earthquakes = Earthquakes are sudden shaking of the Earth's surface due to tectonic activity.
+hi:bhukamp kya hai = भूकंप पृथ्वी की सतह का अचानक हिलना है जो प्लेट टेक्टोनिक्स के कारण होता है।
+
+en:volcano = A volcano is an opening in Earth’s crust that erupts lava and gases.
+hi:volcano kya hai = ज्वालामुखी पृथ्वी की परत में एक छिद्र है जो लावा और गैस फेंकता है।
+
+en:solar system = The solar system consists of the sun, planets, moons, and other celestial bodies.
+hi:solar system kya hai = सौरमंडल में सूर्य, ग्रह, चंद्रमा और अन्य खगोलीय पिंड शामिल हैं।
+
+en:moon phases = Moon phases change as the moon orbits the Earth.
+hi:chaand ke charan = चंद्रमा के चरण बदलते हैं जब वह पृथ्वी की परिक्रमा करता है।
+
+en:gravity = Gravity is a force that attracts objects towards each other.
+hi:gurutvakarshan kya hai = गुरुत्वाकर्षण वह बल है जो वस्तुओं को एक-दूसरे की ओर खींचता है।
+
+en:photosynthesis = Photosynthesis is the process by which plants make food using sunlight.
+hi:photosynthesis kya hai = प्रकाश संश्लेषण वह प्रक्रिया है जिसमें पौधे सूर्य की रोशनी से भोजन बनाते हैं।
+
+en:air pollution = Air pollution is caused by smoke, dust, and harmful gases in the air.
+hi:hawaa pradushan = वायु प्रदूषण धुआं, धूल और हानिकारक गैसों के कारण होता है।
+
+en:water pollution = Water pollution is caused by chemicals, waste, and toxins in water bodies.
+hi:pani pradushan = जल प्रदूषण रासायनिक, कचरे और विषाक्त पदार्थों के कारण होता है।
+
+en:renewable energy = Renewable energy comes from sources like sun, wind, and water.
+hi:naviinikaran yogya urja = नवीनीकरणीय ऊर्जा सूर्य, हवा और पानी जैसे स्रोतों से आती है।
+
+en:wind energy = Wind energy is generated using wind turbines.
+hi:hawaa se urja = पवन ऊर्जा पवन टरबाइन का उपयोग करके उत्पन्न होती है।
+
+en:earth day = Earth Day is celebrated on 22nd April to promote environmental awareness.
+hi:prithvi divas = पृथ्वी दिवस 22 अप्रैल को मनाया जाता है ताकि पर्यावरण के प्रति जागरूकता बढ़ सके।
+
+en:computer = A computer is an electronic device for processing data.
+hi:computer kya hai = कंप्यूटर डेटा प्रोसेस करने वाला इलेक्ट्रॉनिक उपकरण है।
+
+en:internet = Internet is a global network that connects computers worldwide.
+hi:internet kya hai = इंटरनेट एक वैश्विक नेटवर्क है जो दुनिया भर के कंप्यूटरों को जोड़ता है।
+
+en:ai technology = AI technology allows machines to perform human-like tasks.
+hi:ai technology kya hai = AI तकनीक मशीनों को मानव जैसे कार्य करने में सक्षम बनाती है।
+
+en:robotics = Robotics deals with designing and building robots.
+hi:robotics kya hai = रोबोटिक्स रोबोट डिजाइन और बनाने का विज्ञान है।
+
+en:space exploration = Space exploration studies planets, stars, and galaxies beyond Earth.
+hi:antariksh anveshan = अंतरिक्ष अन्वेषण ग्रहों, तारों और आकाशगंगाओं का अध्ययन करता है।
+
+en:astronaut = An astronaut is trained to travel and work in space.
+hi:astronaut kya hai = अंतरिक्ष यात्री को अंतरिक्ष में यात्रा और काम करने के लिए प्रशिक्षित किया जाता है।
+
+en:health tips = Drink water, exercise, eat balanced diet, and sleep well for good health.
+hi:health tips = अच्छे स्वास्थ्य के लिए पानी पिएं, व्यायाम करें, संतुलित आहार लें और पर्याप्त नींद लें।
+
+en:stress management = Manage stress by meditation, exercise, and time management.
+hi:stress management = तनाव प्रबंधन ध्यान, व्यायाम और समय प्रबंधन से करें।
+
+en:mental health = Mental health is important for overall well-being and happiness.
+hi:mental health kya hai = मानसिक स्वास्थ्य सम्पूर्ण स्वास्थ्य और खुशी के लिए महत्वपूर्ण है।
+
+en:recycle plastic = Recycle plastic to reduce pollution and save environment.
+hi:plastic recycle kare = प्रदूषण कम करने और पर्यावरण बचाने के लिए प्लास्टिक रीसायकल करें।
+
+en:trees importance = Trees provide oxygen, shade, and support biodiversity.
+hi:pedon ka mahatva = पेड़ ऑक्सीजन, छाया और जैव विविधता प्रदान करते हैं।
+
+en:climate change = Climate change refers to long-term changes in temperature and weather patterns.
+hi:climate change kya hai = जलवायु परिवर्तन तापमान और मौसम पैटर्न में दीर्घकालिक बदलाव को कहते हैं।
+
+en:smartphone = A smartphone is a mobile device with internet and applications.
+hi:smartphone kya hai = स्मार्टफोन इंटरनेट और एप्लिकेशन वाला मोबाइल डिवाइस है।
+
+en:electric vehicle = Electric vehicles run on electricity instead of fuel.
+hi:electric vehicle kya hai = इलेक्ट्रिक वाहन ईंधन की बजाय बिजली पर चलते हैं।
+
+en:artificial satellite = Artificial satellites orbit Earth for communication, weather, and research.
+hi:kritrim upagrah = कृत्रिम उपग्रह संचार, मौसम और अनुसंधान के लिए पृथ्वी की परिक्रमा करते हैं।
+
+en:stars = Stars are luminous celestial bodies in space.
+hi:tare kya hai = तारे अंतरिक्ष में प्रकाशमान खगोलीय पिंड हैं।
+
+en:planets = Planets are large celestial bodies orbiting a star.
+hi:grah kya hai = ग्रह एक तारे के चारों ओर परिक्रमा करने वाले बड़े खगोलीय पिंड हैं।
+
+en:milky way = Milky Way is our galaxy that contains billions of stars.
+hi:milky way kya hai = मिल्की वे हमारी आकाशगंगा है जिसमें अरबों तारे हैं।
+
+en:universe = Universe is everything that exists, including galaxies, planets, and matter.
+hi:brahmand kya hai = ब्रह्मांड वह सब कुछ है जो मौजूद है, जिसमें आकाशगंगाएं, ग्रह और पदार्थ शामिल हैं।
+en:what is python = Python is a high-level programming language used for web development, AI, and automation.
+hi:python kya hai = Python एक उच्च स्तरीय प्रोग्रामिंग भाषा है जो वेब डेवलपमेंट, AI और ऑटोमेशन के लिए इस्तेमाल होती है।
+
+en:who created python = Python was created by Guido van Rossum in 1991.
+hi:python kisne banaya = Python को Guido van Rossum ने 1991 में बनाया था।
+
+en:what is flask = Flask is a lightweight Python web framework used to build web applications.
+hi:flask kya hai = Flask एक हल्का Python वेब फ्रेमवर्क है जो वेब एप्लिकेशन बनाने के लिए इस्तेमाल होता है।
+
+en:what is django = Django is a high-level Python web framework for building secure web applications.
+hi:django kya hai = Django एक उच्च स्तरीय Python वेब फ्रेमवर्क है जिसका उपयोग सुरक्षित वेब एप्लिकेशन बनाने के लिए होता है।
+
+en:what is html = HTML is the standard language used to create web pages.
+hi:html kya hai = HTML वेब पेज बनाने की मानक भाषा है।
+
+en:what is css = CSS is used to style and design web pages.
+hi:css kya hai = CSS का उपयोग वेब पेज को डिजाइन और स्टाइल करने के लिए किया जाता है।
+
+en:what is javascript = JavaScript is a programming language used to make web pages interactive.
+hi:javascript kya hai = JavaScript एक प्रोग्रामिंग भाषा है जो वेब पेज को इंटरैक्टिव बनाती है।
+
+en:what is ai = Artificial Intelligence is the simulation of human intelligence in machines.
+hi:ai kya hai = आर्टिफिशियल इंटेलिजेंस मशीनों में मानव बुद्धिमत्ता का अनुकरण है।
+
+en:what is machine learning = Machine Learning is a field of AI that allows computers to learn from data.
+hi:machine learning kya hai = मशीन लर्निंग AI का एक क्षेत्र है जो कंप्यूटर को डेटा से सीखने देता है।
+
+en:what is deep learning = Deep Learning is a subset of machine learning using neural networks.
+hi:deep learning kya hai = डीप लर्निंग मशीन लर्निंग का एक भाग है जो न्यूरल नेटवर्क का उपयोग करता है।
+
+en:what is data science = Data Science is the process of extracting insights from data.
+hi:data science kya hai = डेटा साइंस डेटा से जानकारी निकालने की प्रक्रिया है।
+
+en:what is numpy = NumPy is a Python library used for numerical computing.
+hi:numpy kya hai = NumPy Python की लाइब्रेरी है जो संख्यात्मक गणना के लिए उपयोग होती है।
+
+en:what is pandas = Pandas is a Python library used for data analysis and data manipulation.
+hi:pandas kya hai = Pandas Python की लाइब्रेरी है जो डेटा विश्लेषण के लिए उपयोग होती है।
+
+en:what is matplotlib = Matplotlib is a Python library used for data visualization.
+hi:matplotlib kya hai = Matplotlib Python की लाइब्रेरी है जो डेटा विज़ुअलाइजेशन के लिए उपयोग होती है।
+
+en:what is seaborn = Seaborn is a Python library for statistical data visualization.
+hi:seaborn kya hai = Seaborn सांख्यिकीय डेटा विज़ुअलाइजेशन के लिए Python लाइब्रेरी है।
+
+en:what is sql = SQL is a language used to manage and query databases.
+hi:sql kya hai = SQL डेटाबेस को प्रबंधित और क्वेरी करने की भाषा है।
+
+en:what is database = A database is a structured collection of data.
+hi:database kya hai = डेटाबेस डेटा का व्यवस्थित संग्रह होता है।
+
+en:what is mysql = MySQL is a popular relational database management system.
+hi:mysql kya hai = MySQL एक लोकप्रिय रिलेशनल डेटाबेस मैनेजमेंट सिस्टम है।
+
+en:what is mongodb = MongoDB is a NoSQL database that stores data in JSON-like format.
+hi:mongodb kya hai = MongoDB एक NoSQL डेटाबेस है जो JSON जैसे फॉर्मेट में डेटा स्टोर करता है।
+
+en:what is api = API allows different software applications to communicate with each other.
+hi:api kya hai = API अलग-अलग सॉफ्टवेयर को आपस में संवाद करने की सुविधा देता है।
+
+en:what is json = JSON is a lightweight data format used for data exchange.
+hi:json kya hai = JSON डेटा एक्सचेंज के लिए उपयोग होने वाला हल्का डेटा फॉर्मेट है।
+
+en:what is git = Git is a version control system used to track code changes.
+hi:git kya hai = Git एक वर्जन कंट्रोल सिस्टम है जो कोड में बदलाव को ट्रैक करता है।
+
+en:what is github = GitHub is a platform to host and manage Git repositories.
+hi:github kya hai = GitHub Git रिपॉजिटरी होस्ट करने का प्लेटफॉर्म है।
+
+en:what is linux = Linux is an open-source operating system.
+hi:linux kya hai = Linux एक ओपन-सोर्स ऑपरेटिंग सिस्टम है।
+
+en:what is windows = Windows is an operating system developed by Microsoft.
+hi:windows kya hai = Windows Microsoft द्वारा विकसित ऑपरेटिंग सिस्टम है।
+
+en:what is operating system = An operating system manages computer hardware and software resources.
+hi:operating system kya hai = ऑपरेटिंग सिस्टम कंप्यूटर के हार्डवेयर और सॉफ्टवेयर को नियंत्रित करता है।
+
+en:what is cloud computing = Cloud computing provides computing services over the internet.
+hi:cloud computing kya hai = क्लाउड कंप्यूटिंग इंटरनेट के माध्यम से कंप्यूटिंग सेवाएं प्रदान करता है।
+
+en:what is aws = AWS is a cloud platform provided by Amazon.
+hi:aws kya hai = AWS Amazon द्वारा प्रदान किया गया क्लाउड प्लेटफॉर्म है।
+
+en:what is docker = Docker is a platform used to create and manage containers.
+hi:docker kya hai = Docker कंटेनर बनाने और मैनेज करने का प्लेटफॉर्म है।
+
+en:what is chatbot = A chatbot is a software that can simulate conversation with users.
+hi:chatbot kya hai = चैटबॉट एक सॉफ्टवेयर है जो यूज़र से बातचीत कर सकता है।
+
+en:what is nlp = NLP is a field of AI that helps computers understand human language.
+hi:nlp kya hai = NLP AI का क्षेत्र है जो कंप्यूटर को मानव भाषा समझने में मदद करता है।
+
+en:what is tensorflow = TensorFlow is an open-source machine learning framework by Google.
+hi:tensorflow kya hai = TensorFlow Google का ओपन-सोर्स मशीन लर्निंग फ्रेमवर्क है।
+
+en:what is pytorch = PyTorch is an open-source deep learning framework.
+hi:pytorch kya hai = PyTorch एक ओपन-सोर्स डीप लर्निंग फ्रेमवर्क है।
+
+en:what is neural network = A neural network is a system inspired by the human brain for machine learning.
+hi:neural network kya hai = न्यूरल नेटवर्क मानव मस्तिष्क से प्रेरित मशीन लर्निंग मॉडल है।
+
+en:what is big data = Big Data refers to very large datasets that require advanced tools for analysis.
+hi:big data kya hai = बिग डेटा बहुत बड़े डेटा सेट को कहा जाता है जिनके विश्लेषण के लिए विशेष टूल की जरूरत होती है।
+
+en:what is blockchain = Blockchain is a distributed digital ledger technology.
+hi:blockchain kya hai = ब्लॉकचेन एक वितरित डिजिटल लेजर तकनीक है।
+
+en:what is cryptocurrency = Cryptocurrency is a digital currency based on blockchain technology.
+hi:cryptocurrency kya hai = क्रिप्टोकरेंसी ब्लॉकचेन तकनीक पर आधारित डिजिटल मुद्रा है।
+
+en:what is internet = The internet is a global network that connects computers worldwide.
+hi:internet kya hai = इंटरनेट एक वैश्विक नेटवर्क है जो कंप्यूटरों को जोड़ता है।
+
+en:what is website = A website is a collection of web pages accessible through the internet.
+hi:website kya hai = वेबसाइट इंटरनेट पर उपलब्ध वेब पेजों का संग्रह है।
+
+en:what is hosting = Hosting is a service that stores websites on servers.
+hi:hosting kya hai = होस्टिंग वह सेवा है जो वेबसाइट को सर्वर पर स्टोर करती है।
+
+en:what is domain = A domain is the address used to access a website.
+hi:domain kya hai = डोमेन वेबसाइट का इंटरनेट पता होता है।
+
+en:what is frontend = Frontend is the part of a website users interact with.
+hi:frontend kya hai = फ्रंटएंड वेबसाइट का वह हिस्सा है जिससे यूज़र इंटरैक्ट करता है।
+
+en:what is backend = Backend is the server-side logic of a website.
+hi:backend kya hai = बैकएंड वेबसाइट का सर्वर-साइड लॉजिक होता है।
+
+en:what is full stack developer = A full stack developer works on both frontend and backend.
+hi:full stack developer kya hai = फुल स्टैक डेवलपर फ्रंटएंड और बैकएंड दोनों पर काम करता है।
+
+en:what is algorithm = An algorithm is a step-by-step procedure to solve a problem.
+hi:algorithm kya hai = एल्गोरिदम समस्या हल करने की चरणबद्ध प्रक्रिया है।
+
+en:what is data structure = Data structure is a way to organize and store data efficiently.
+hi:data structure kya hai = डेटा स्ट्रक्चर डेटा को व्यवस्थित तरीके से स्टोर करने की विधि है।
+
+en:what is array = An array is a collection of elements stored in contiguous memory.
+hi:array kya hai = एरे समान प्रकार के डेटा का संग्रह होता है।
+
+en:what is stack = Stack is a data structure that follows LIFO order.
+hi:stack kya hai = स्टैक एक डेटा स्ट्रक्चर है जो LIFO सिद्धांत पर काम करता है।
+
+en:what is queue = Queue is a data structure that follows FIFO order.
+hi:queue kya hai = क्यू एक डेटा स्ट्रक्चर है जो FIFO सिद्धांत पर काम करता है।
+en:what is programming = Programming is the process of writing instructions for computers to perform tasks.
+hi:programming kya hai = प्रोग्रामिंग कंप्यूटर को कार्य करने के लिए निर्देश लिखने की प्रक्रिया है।
+
+en:what is coding = Coding is writing code using a programming language.
+hi:coding kya hai = कोडिंग प्रोग्रामिंग भाषा का उपयोग करके कोड लिखने की प्रक्रिया है।
+
+en:what is compiler = A compiler converts source code into machine code.
+hi:compiler kya hai = कंपाइलर सोर्स कोड को मशीन कोड में बदलता है।
+
+en:what is interpreter = An interpreter executes code line by line.
+hi:interpreter kya hai = इंटरप्रेटर कोड को लाइन बाय लाइन चलाता है।
+
+en:what is variable = A variable is used to store data in programming.
+hi:variable kya hai = वेरिएबल प्रोग्रामिंग में डेटा स्टोर करने के लिए उपयोग होता है।
+
+en:what is function = A function is a block of code that performs a specific task.
+hi:function kya hai = फंक्शन कोड का एक भाग है जो विशेष कार्य करता है।
+
+en:what is loop = A loop is used to repeat a block of code multiple times.
+hi:loop kya hai = लूप का उपयोग कोड को बार-बार चलाने के लिए किया जाता है।
+
+en:what is conditional statement = Conditional statements control the flow of a program based on conditions.
+hi:conditional statement kya hai = कंडीशनल स्टेटमेंट शर्तों के आधार पर प्रोग्राम का प्रवाह नियंत्रित करते हैं।
+
+en:what is object oriented programming = Object Oriented Programming is a programming paradigm based on objects and classes.
+hi:oop kya hai = ऑब्जेक्ट ओरिएंटेड प्रोग्रामिंग क्लास और ऑब्जेक्ट पर आधारित प्रोग्रामिंग शैली है।
+
+en:what is class = A class is a blueprint for creating objects in programming.
+hi:class kya hai = क्लास ऑब्जेक्ट बनाने का ब्लूप्रिंट होता है।
+
+en:what is object = An object is an instance of a class.
+hi:object kya hai = ऑब्जेक्ट क्लास का उदाहरण होता है।
+
+en:what is inheritance = Inheritance allows a class to inherit properties from another class.
+hi:inheritance kya hai = इनहेरिटेंस में एक क्लास दूसरी क्लास की विशेषताएँ प्राप्त करती है।
+
+en:what is polymorphism = Polymorphism allows methods to perform different tasks with the same name.
+hi:polymorphism kya hai = पॉलीमॉर्फिज्म में एक ही नाम की मेथड अलग-अलग काम कर सकती है।
+
+en:what is encapsulation = Encapsulation is the concept of hiding data within a class.
+hi:encapsulation kya hai = एन्कैप्सुलेशन में डेटा को क्लास के अंदर सुरक्षित रखा जाता है।
+
+en:what is debugging = Debugging is the process of finding and fixing errors in code.
+hi:debugging kya hai = डिबगिंग कोड में त्रुटियों को ढूंढने और ठीक करने की प्रक्रिया है।
+
+en:what is software = Software is a collection of programs used to operate a computer.
+hi:software kya hai = सॉफ्टवेयर कंप्यूटर चलाने के लिए प्रोग्राम का समूह होता है।
+
+en:what is hardware = Hardware refers to the physical components of a computer.
+hi:hardware kya hai = हार्डवेयर कंप्यूटर के भौतिक हिस्से होते हैं।
+
+en:what is ram = RAM is temporary memory used by a computer to store data while running programs.
+hi:ram kya hai = RAM अस्थायी मेमोरी है जिसमें प्रोग्राम चलते समय डेटा स्टोर होता है।
+
+en:what is rom = ROM is permanent memory used to store important data in a computer.
+hi:rom kya hai = ROM स्थायी मेमोरी है जिसमें महत्वपूर्ण डेटा स्टोर रहता है।
+
+en:what is cpu = CPU is the main processor of a computer that performs calculations.
+hi:cpu kya hai = CPU कंप्यूटर का मुख्य प्रोसेसर है जो गणना करता है।
+
+en:what is gpu = GPU is used for graphics processing and parallel computations.
+hi:gpu kya hai = GPU ग्राफिक्स प्रोसेसिंग के लिए उपयोग किया जाता है।
+
+en:what is firewall = A firewall is a security system that monitors network traffic.
+hi:firewall kya hai = फायरवॉल नेटवर्क ट्रैफिक को मॉनिटर करने वाली सुरक्षा प्रणाली है।
+
+en:what is cybersecurity = Cybersecurity is the practice of protecting systems and networks from attacks.
+hi:cybersecurity kya hai = साइबर सुरक्षा सिस्टम और नेटवर्क को हमलों से बचाने की प्रक्रिया है।
+
+en:what is phishing = Phishing is a cyber attack that tricks users into giving personal information.
+hi:phishing kya hai = फिशिंग एक साइबर हमला है जिसमें उपयोगकर्ता से निजी जानकारी ली जाती है।
+
+en:what is malware = Malware is malicious software designed to harm computers.
+hi:malware kya hai = मालवेयर हानिकारक सॉफ्टवेयर होता है जो कंप्यूटर को नुकसान पहुंचाता है।
+
+en:what is antivirus = Antivirus is software used to detect and remove viruses.
+hi:antivirus kya hai = एंटीवायरस वायरस को पहचानने और हटाने वाला सॉफ्टवेयर है।
+
+en:what is network = A network is a group of connected computers.
+hi:network kya hai = नेटवर्क जुड़े हुए कंप्यूटरों का समूह होता है।
+
+en:what is ip address = An IP address is a unique number assigned to each device on a network.
+hi:ip address kya hai = IP एड्रेस नेटवर्क पर प्रत्येक डिवाइस का यूनिक नंबर होता है।
+
+en:what is http = HTTP is the protocol used to transfer web pages.
+hi:http kya hai = HTTP वेब पेज ट्रांसफर करने का प्रोटोकॉल है।
+
+en:what is https = HTTPS is a secure version of HTTP.
+hi:https kya hai = HTTPS HTTP का सुरक्षित संस्करण है।
+
+en:what is search engine = A search engine helps users find information on the internet.
+hi:search engine kya hai = सर्च इंजन इंटरनेट पर जानकारी खोजने में मदद करता है।
+
+en:what is google = Google is a popular search engine used worldwide.
+hi:google kya hai = Google एक लोकप्रिय सर्च इंजन है।
+
+en:what is email = Email is a method of sending digital messages over the internet.
+hi:email kya hai = ईमेल इंटरनेट के माध्यम से संदेश भेजने का तरीका है।
+
+en:what is spam email = Spam email refers to unwanted promotional emails.
+hi:spam email kya hai = स्पैम ईमेल अनचाहे प्रचार संदेश होते हैं।
+
+en:what is mobile app = A mobile app is a software application designed for smartphones.
+hi:mobile app kya hai = मोबाइल ऐप स्मार्टफोन के लिए बनाया गया सॉफ्टवेयर होता है।
+
+en:what is android = Android is a mobile operating system developed by Google.
+hi:android kya hai = Android Google द्वारा बनाया गया मोबाइल ऑपरेटिंग सिस्टम है।
+
+en:what is ios = iOS is a mobile operating system developed by Apple.
+hi:ios kya hai = iOS Apple द्वारा बनाया गया मोबाइल ऑपरेटिंग सिस्टम है।
+
+en:what is wifi = WiFi is a wireless technology used to connect devices to the internet.
+hi:wifi kya hai = WiFi वायरलेस तकनीक है जो इंटरनेट से जोड़ती है।
+
+en:what is bluetooth = Bluetooth is a wireless technology used for short-range communication.
+hi:bluetooth kya hai = Bluetooth छोटी दूरी के वायरलेस संचार की तकनीक है।
+
+en:what is usb = USB is a standard used to connect devices and transfer data.
+hi:usb kya hai = USB डिवाइस कनेक्ट करने और डेटा ट्रांसफर करने का मानक है。
+en:what is college = A college is an educational institution that provides higher education.
+hi:college kya hai = कॉलेज एक शैक्षणिक संस्थान है जो उच्च शिक्षा प्रदान करता है।
+
+en:what is university = A university is a higher education institution that offers undergraduate and postgraduate degrees.
+hi:university kya hai = विश्वविद्यालय एक उच्च शिक्षा संस्थान है जो स्नातक और स्नातकोत्तर डिग्री प्रदान करता है।
+
+en:what is admission = Admission is the process of entering a college or university.
+hi:admission kya hai = एडमिशन कॉलेज या विश्वविद्यालय में प्रवेश लेने की प्रक्रिया है।
+
+en:what is enrollment number = An enrollment number is a unique ID given to each student.
+hi:enrollment number kya hai = एनरोलमेंट नंबर प्रत्येक छात्र को दिया गया एक यूनिक पहचान नंबर होता है।
+
+en:what is student id = Student ID is a card used to identify a student in college.
+hi:student id kya hai = स्टूडेंट आईडी कॉलेज में छात्र की पहचान के लिए उपयोग होने वाला कार्ड है।
+
+en:what is semester = A semester is a six-month academic term in colleges.
+hi:semester kya hai = सेमेस्टर कॉलेज का छह महीने का शैक्षणिक सत्र होता है।
+
+en:what is syllabus = Syllabus is the list of topics covered in a course.
+hi:syllabus kya hai = सिलेबस किसी कोर्स में पढ़ाए जाने वाले विषयों की सूची है।
+
+en:what is assignment = An assignment is a task given to students by teachers.
+hi:assignment kya hai = असाइनमेंट शिक्षक द्वारा छात्रों को दिया गया कार्य होता है।
+
+en:what is internal exam = Internal exams are tests conducted by the college during the semester.
+hi:internal exam kya hai = इंटरनल परीक्षा सेमेस्टर के दौरान कॉलेज द्वारा ली जाने वाली परीक्षा है।
+
+en:what is external exam = External exam is the final exam conducted by the university.
+hi:external exam kya hai = एक्सटर्नल परीक्षा विश्वविद्यालय द्वारा आयोजित अंतिम परीक्षा होती है।
+
+en:what is attendance = Attendance is the record of students present in class.
+hi:attendance kya hai = अटेंडेंस कक्षा में उपस्थित छात्रों का रिकॉर्ड होता है।
+
+en:what is practical exam = A practical exam tests practical skills of students.
+hi:practical exam kya hai = प्रैक्टिकल परीक्षा छात्रों के व्यावहारिक ज्ञान की जांच करती है।
+
+en:what is project work = Project work is a research or practical task given to students.
+hi:project work kya hai = प्रोजेक्ट वर्क छात्रों को दिया गया शोध या प्रायोगिक कार्य होता है।
+
+en:what is internship = Internship is a training program where students gain work experience.
+hi:internship kya hai = इंटर्नशिप प्रशिक्षण कार्यक्रम है जिसमें छात्र काम का अनुभव प्राप्त करते हैं।
+
+en:what is scholarship = A scholarship is financial support given to students for education.
+hi:scholarship kya hai = स्कॉलरशिप छात्रों को शिक्षा के लिए दी जाने वाली आर्थिक सहायता है।
+
+en:what is library = A library is a place where students can read and borrow books.
+hi:library kya hai = लाइब्रेरी वह स्थान है जहाँ छात्र किताबें पढ़ सकते हैं और उधार ले सकते हैं।
+
+en:what is laboratory = A laboratory is a place for scientific experiments and practical work.
+hi:laboratory kya hai = प्रयोगशाला वह स्थान है जहाँ वैज्ञानिक प्रयोग किए जाते हैं।
+
+en:what is hostel = A hostel is a place where students live during their studies.
+hi:hostel kya hai = हॉस्टल वह स्थान है जहाँ छात्र पढ़ाई के दौरान रहते हैं।
+
+en:what is campus = Campus is the area where college buildings and facilities are located.
+hi:campus kya hai = कैंपस वह क्षेत्र है जहाँ कॉलेज की इमारतें और सुविधाएँ होती हैं।
+
+en:what is canteen = A canteen is a place where students can buy food in college.
+hi:canteen kya hai = कैंटीन कॉलेज में भोजन खरीदने की जगह होती है।
+
+en:what is placement = Placement is the process where companies hire students from college.
+hi:placement kya hai = प्लेसमेंट वह प्रक्रिया है जिसमें कंपनियाँ कॉलेज से छात्रों को नौकरी देती हैं।
+
+en:what is campus interview = Campus interview is a job interview conducted in college by companies.
+hi:campus interview kya hai = कैंपस इंटरव्यू कंपनियों द्वारा कॉलेज में लिया जाने वाला जॉब इंटरव्यू होता है।
+
+en:what is faculty = Faculty refers to teachers working in a college.
+hi:faculty kya hai = फैकल्टी कॉलेज में काम करने वाले शिक्षकों को कहा जाता है।
+
+en:what is dean = Dean is the head of a faculty or department in a university.
+hi:dean kya hai = डीन विश्वविद्यालय में किसी संकाय या विभाग का प्रमुख होता है।
+
+en:what is principal = Principal is the head of a college.
+hi:principal kya hai = प्रिंसिपल कॉलेज का प्रमुख होता है।
+
+en:what is timetable = Timetable is a schedule of classes and subjects.
+hi:timetable kya hai = टाइमटेबल कक्षाओं और विषयों का समय-सारणी होता है।
+
+en:what is exam result = Exam result shows the marks obtained by students in exams.
+hi:exam result kya hai = परीक्षा परिणाम छात्रों द्वारा प्राप्त अंकों को दिखाता है।
+
+en:what is grade = Grade is a letter or score that shows student performance.
+hi:grade kya hai = ग्रेड छात्र के प्रदर्शन को दिखाने वाला अंक या अक्षर होता है।
+
+en:what is cgpa = CGPA is the average grade point of a student across semesters.
+hi:cgpa kya hai = CGPA कई सेमेस्टर के औसत ग्रेड पॉइंट को दर्शाता है।
+
+en:what is transcript = Transcript is an official record of student marks.
+hi:transcript kya hai = ट्रांसक्रिप्ट छात्र के अंकों का आधिकारिक रिकॉर्ड होता है।
+
+en:what is convocation = Convocation is the ceremony where degrees are awarded.
+hi:convocation kya hai = दीक्षांत समारोह वह कार्यक्रम है जहाँ डिग्री दी जाती है।
+en:what is the capital of india = The capital of India is New Delhi.
+hi:india ki rajdhani kya hai = भारत की राजधानी नई दिल्ली है।
+
+en:who is the prime minister of india = The Prime Minister of India is Narendra Modi.
+hi:india ke pradhan mantri kaun hai = भारत के प्रधानमंत्री नरेंद्र मोदी हैं।
+
+en:who is the president of india = The President of India is Droupadi Murmu.
+hi:india ke rashtrapati kaun hai = भारत की राष्ट्रपति द्रौपदी मुर्मू हैं।
+
+en:what is the national animal of india = The national animal of India is the tiger.
+hi:india ka rashtriya pashu kya hai = भारत का राष्ट्रीय पशु बाघ है।
+
+en:what is the national bird of india = The national bird of India is the peacock.
+hi:india ka rashtriya pakshi kya hai = भारत का राष्ट्रीय पक्षी मोर है।
+
+en:what is the national flower of india = The national flower of India is the lotus.
+hi:india ka rashtriya phool kya hai = भारत का राष्ट्रीय फूल कमल है।
+
+en:what is the national fruit of india = The national fruit of India is the mango.
+hi:india ka rashtriya phal kya hai = भारत का राष्ट्रीय फल आम है।
+
+en:what is the national tree of india = The national tree of India is the banyan tree.
+hi:india ka rashtriya vriksh kya hai = भारत का राष्ट्रीय वृक्ष बरगद है।
+
+en:who discovered india = India was discovered by Vasco da Gama in 1498.
+hi:india ki khoj kisne ki = भारत की खोज वास्को द गामा ने 1498 में की।
+
+en:who is known as the father of nation in india = Mahatma Gandhi is known as the Father of the Nation in India.
+hi:bharat ke rashtrapita kaun hai = महात्मा गांधी को भारत का राष्ट्रपिता कहा जाता है।
+
+en:when did india get independence = India got independence on 15 August 1947.
+hi:india ko azadi kab mili = भारत को 15 अगस्त 1947 को आजादी मिली।
+
+en:what is the largest state in india = Rajasthan is the largest state in India by area.
+hi:india ka sabse bada rajya kaun sa hai = राजस्थान भारत का क्षेत्रफल के अनुसार सबसे बड़ा राज्य है।
+
+en:what is the smallest state in india = Goa is the smallest state in India by area.
+hi:india ka sabse chhota rajya kaun sa hai = गोवा भारत का सबसे छोटा राज्य है।
+
+en:what is the longest river in india = The Ganga is the longest river in India.
+hi:india ki sabse lambi nadi kaun si hai = गंगा भारत की सबसे लंबी नदी है।
+
+en:what is the highest mountain in the world = Mount Everest is the highest mountain in the world.
+hi:duniya ka sabse uncha parvat kaun sa hai = माउंट एवरेस्ट दुनिया का सबसे ऊँचा पर्वत है।
+
+en:what is the largest ocean in the world = The Pacific Ocean is the largest ocean in the world.
+hi:duniya ka sabse bada mahasagar kaun sa hai = प्रशांत महासागर दुनिया का सबसे बड़ा महासागर है।
+
+en:who invented the telephone = Alexander Graham Bell invented the telephone.
+hi:telephone kisne banaya = टेलीफोन का आविष्कार अलेक्जेंडर ग्राहम बेल ने किया।
+
+en:who invented the light bulb = Thomas Edison invented the electric light bulb.
+hi:bulb kisne banaya = बल्ब का आविष्कार थॉमस एडिसन ने किया।
+
+en:who invented the airplane = The Wright brothers invented the airplane.
+hi:hawai jahaj kisne banaya = हवाई जहाज का आविष्कार राइट ब्रदर्स ने किया।
+
+en:what is the largest continent in the world = Asia is the largest continent in the world.
+hi:duniya ka sabse bada mahadweep kaun sa hai = एशिया दुनिया का सबसे बड़ा महाद्वीप है।
+
+en:what is the smallest continent in the world = Australia is the smallest continent in the world.
+hi:duniya ka sabse chhota mahadweep kaun sa hai = ऑस्ट्रेलिया सबसे छोटा महाद्वीप है।
+
+en:which planet is known as the red planet = Mars is known as the red planet.
+hi:lal grah kise kaha jata hai = मंगल ग्रह को लाल ग्रह कहा जाता है।
+
+en:which planet is the largest in the solar system = Jupiter is the largest planet in the solar system.
+hi:sabse bada grah kaun sa hai = बृहस्पति सौरमंडल का सबसे बड़ा ग्रह है।
+
+en:which planet is closest to the sun = Mercury is the closest planet to the sun.
+hi:surya ke sabse paas kaun sa grah hai = बुध सूर्य के सबसे पास का ग्रह है।
+
+en:which planet is known as the blue planet = Earth is known as the blue planet.
+hi:neela grah kise kaha jata hai = पृथ्वी को नीला ग्रह कहा जाता है।
+
+en:what is the national game of india = Hockey is considered the national game of India.
+hi:india ka rashtriya khel kya hai = भारत का राष्ट्रीय खेल हॉकी माना जाता है।
+
+en:who is known as the flying sikh = Milkha Singh is known as the Flying Sikh.
+hi:flying sikh kise kaha jata hai = मिल्खा सिंह को फ्लाइंग सिख कहा जाता है।
+
+en:who is known as the missile man of india = APJ Abdul Kalam is known as the Missile Man of India.
+hi:missile man of india kaun hai = एपीजे अब्दुल कलाम को मिसाइल मैन ऑफ इंडिया कहा जाता है।
+
+en:who wrote the national anthem of india = Rabindranath Tagore wrote the national anthem of India.
+hi:india ka rashtragaan kisne likha = भारत का राष्ट्रगान रवीन्द्रनाथ टैगोर ने लिखा।
+
+en:what is the national song of india = Vande Mataram is the national song of India.
+hi:india ka rashtriya geet kya hai = वंदे मातरम भारत का राष्ट्रीय गीत है।
+en:who invented the computer = Charles Babbage is known as the father of the computer.
+hi:computer ke janak kaun hai = चार्ल्स बैबेज को कंप्यूटर का जनक कहा जाता है।
+
+en:who invented the internet = The internet was developed by many scientists including Vinton Cerf and Robert Kahn.
+hi:internet kisne banaya = इंटरनेट का विकास कई वैज्ञानिकों ने किया जिनमें विंटन सर्फ और रॉबर्ट काह्न शामिल हैं।
+
+en:what is the speed of light = The speed of light is approximately 300,000 kilometers per second.
+hi:prakash ki gati kya hai = प्रकाश की गति लगभग 3,00,000 किलोमीटर प्रति सेकंड होती है।
+
+en:who discovered gravity = Isaac Newton discovered the law of gravity.
+hi:gurutvakarshan ki khoj kisne ki = गुरुत्वाकर्षण का नियम आइज़ैक न्यूटन ने खोजा।
+
+en:who discovered electricity = Benjamin Franklin discovered electricity.
+hi:bijli ki khoj kisne ki = बिजली की खोज बेंजामिन फ्रैंकलिन ने की।
+
+en:what is the largest desert in the world = The Sahara Desert is the largest hot desert in the world.
+hi:duniya ka sabse bada registan kaun sa hai = सहारा दुनिया का सबसे बड़ा गर्म रेगिस्तान है।
+
+en:what is the longest river in the world = The Nile River is the longest river in the world.
+hi:duniya ki sabse lambi nadi kaun si hai = नील नदी दुनिया की सबसे लंबी नदी है।
+
+en:what is the capital of japan = The capital of Japan is Tokyo.
+hi:japan ki rajdhani kya hai = जापान की राजधानी टोक्यो है।
+
+en:what is the capital of china = The capital of China is Beijing.
+hi:china ki rajdhani kya hai = चीन की राजधानी बीजिंग है।
+
+en:what is the capital of usa = The capital of the United States is Washington DC.
+hi:usa ki rajdhani kya hai = अमेरिका की राजधानी वॉशिंगटन डीसी है।
+
+en:which country is the largest in the world = Russia is the largest country in the world by area.
+hi:duniya ka sabse bada desh kaun sa hai = रूस क्षेत्रफल के अनुसार दुनिया का सबसे बड़ा देश है।
+
+en:which country has the largest population = China has the largest population in the world.
+hi:duniya ki sabse jyada jansankhya kis desh me hai = चीन में दुनिया की सबसे अधिक जनसंख्या है।
+
+en:what is the smallest country in the world = Vatican City is the smallest country in the world.
+hi:duniya ka sabse chhota desh kaun sa hai = वेटिकन सिटी दुनिया का सबसे छोटा देश है।
+
+en:what is the national currency of india = The national currency of India is the Indian Rupee.
+hi:india ki mudra kya hai = भारत की मुद्रा भारतीय रुपया है।
+
+en:what is the national flag of india = The national flag of India is called the Tiranga.
+hi:india ka rashtriya jhanda kya hai = भारत का राष्ट्रीय झंडा तिरंगा कहलाता है।
+
+en:how many states are there in india = India has 28 states.
+hi:india me kitne rajya hai = भारत में 28 राज्य हैं।
+
+en:how many union territories are there in india = India has 8 union territories.
+hi:india me kitne kendrashasit pradesh hai = भारत में 8 केंद्र शासित प्रदेश हैं।
+
+en:what is the national language of india = India does not have a national language but Hindi and English are widely used.
+hi:india ki rashtriya bhasha kya hai = भारत की कोई आधिकारिक राष्ट्रीय भाषा नहीं है लेकिन हिंदी और अंग्रेजी का व्यापक उपयोग होता है।
+
+en:what is the tallest statue in the world = The Statue of Unity is the tallest statue in the world.
+hi:duniya ki sabse unchi murti kaun si hai = स्टैच्यू ऑफ यूनिटी दुनिया की सबसे ऊँची मूर्ति है।
+
+en:who built the taj mahal = The Taj Mahal was built by Mughal emperor Shah Jahan.
+hi:taj mahal kisne banwaya = ताज महल मुगल सम्राट शाहजहां ने बनवाया।
+
+en:where is the taj mahal located = The Taj Mahal is located in Agra, India.
+hi:taj mahal kaha hai = ताज महल आगरा में स्थित है।
+
+en:which is the fastest land animal = The cheetah is the fastest land animal.
+hi:sabse tez daudne wala janwar kaun sa hai = चीता सबसे तेज दौड़ने वाला जानवर है।
+
+en:which is the largest animal on earth = The blue whale is the largest animal on earth.
+hi:duniya ka sabse bada janwar kaun sa hai = ब्लू व्हेल दुनिया का सबसे बड़ा जानवर है।
+
+en:which bird can mimic human speech = The parrot can mimic human speech.
+hi:kaunsa pakshi insaan ki awaz nikal sakta hai = तोता इंसान की आवाज की नकल कर सकता है।
+
+en:how many bones are in the human body = The human body has 206 bones.
+hi:insaan ke sharir me kitni haddiyan hoti hai = मानव शरीर में 206 हड्डियाँ होती हैं।
+
+en:how many continents are there in the world = There are 7 continents in the world.
+hi:duniya me kitne mahadweep hai = दुनिया में 7 महाद्वीप हैं।
+
+en:how many oceans are there in the world = There are 5 oceans in the world.
+hi:duniya me kitne mahasagar hai = दुनिया में 5 महासागर हैं।
+
+en:what is the boiling point of water = The boiling point of water is 100 degrees Celsius.
+hi:pani ka ubalne ka tapman kya hai = पानी का उबलने का तापमान 100 डिग्री सेल्सियस होता है।
+
+en:what is the freezing point of water = The freezing point of water is 0 degrees Celsius.
+hi:pani ka jamne ka tapman kya hai = पानी का जमने का तापमान 0 डिग्री सेल्सियस होता है।
+
+en:what is the largest island in the world = Greenland is the largest island in the world.
+hi:duniya ka sabse bada dweep kaun sa hai = ग्रीनलैंड दुनिया का सबसे बड़ा द्वीप है।
